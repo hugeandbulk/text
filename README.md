@@ -1,13 +1,22 @@
 # text
 > Types of Text. 
 
+What is text and types?
+
+Texts can be written according to their structure and style. The main types of text types are narrative, descriptive, directing, and argumentative.
+
+What is text to text in English?
+
+Text-to-Text: A connection between the text and another story or text that you have read previously. What does this remind you of in another book you have read? How is this text similar to other things you have read?
+
+
 KINDS OF TEXT
 
 Based on generic structure and language feature dominantly used, texts are divided into several types. They are narrative, recount, descriptive, report, explanation, analytical exposition, hortatory exposition, procedure, discussion, review, anecdote, spoof, and news item. These variations are known as GENRES.
 
 TEXT GENRES:
 
-Procedure
+1. Procedure
 2. Recount
 3.Narrative
 4.Description
