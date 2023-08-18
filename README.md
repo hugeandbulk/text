@@ -9,6 +9,18 @@ What is text to text in English?
 
 Text-to-Text: A connection between the text and another story or text that you have read previously. What does this remind you of in another book you have read? How is this text similar to other things you have read?
 
+What are the characteristics of text?
+
+Characteristics of literary text include characters, setting, plot (problem/solution), and sequence. These characteristics help the reader understand who is in the story, where and when the story takes place, what happens in the story, and how the events happen, etc.
+
+What is 3 text structure?
+
+Common formats for text structure include compare/contrast, cause and effect, and sequencing. refers to how the information within a written text is organized. This strategy helps students understand that a text might present a main idea and details; a cause and then its effects; and/or different views of a topic.
+
+What is 3 text structure?
+
+Common formats for text structure include compare/contrast, cause and effect, and sequencing. refers to how the information within a written text is organized. This strategy helps students understand that a text might present a main idea and details; a cause and then its effects; and/or different views of a topic.
+
 
 KINDS OF TEXT
 
