@@ -1,3 +1,8 @@
+What are the 11 types of text?
+
+Based on generic structure and language feature dominantly used, texts are divided into several types. They are narrative, recount, descriptive, report, explanation, analytical exposition, hortatory exposition, procedure, discussion, review, anecdote, spoof, and news item. These variations are known as GENRES.
+
+
 
 https://courses.lumenlearning.com/waymaker-level1-english-gen/chapter/text-text-structures/#:~:text=A%20text%20structure%20is%20the,text%20into%20a%20coherent%20whole.
 
