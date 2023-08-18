@@ -1,3 +1,6 @@
+
+https://courses.lumenlearning.com/waymaker-level1-english-gen/chapter/text-text-structures/#:~:text=A%20text%20structure%20is%20the,text%20into%20a%20coherent%20whole.
+
 EXPLAIN
 
 Types of TEXTS
