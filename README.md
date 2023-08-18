@@ -21,6 +21,32 @@ What is 3 text structure?
 
 Common formats for text structure include compare/contrast, cause and effect, and sequencing. refers to how the information within a written text is organized. This strategy helps students understand that a text might present a main idea and details; a cause and then its effects; and/or different views of a topic.
 
+What is expository text?
+
+Expository texts, or informational texts, are non-fiction texts that give facts and information about a topic. These academic texts are common in subjects such as science, history and social sciences. Introduction.
+
+What are the 7 text structures?
+
+Examples of text structures include: sequence/process, description, time order/chronology, proposition/support, compare/contrast, problem/solution, cause/effect, inductive/deductive, and investigation.
+
+What is whole text structure?
+
+A text structure is the framework of a text's beginning, middle, and end. Different narrative and expository genres have different purposes and different audiences, and so they require different text structures. Beginnings and endings help link the text into a coherent whole.
+
+What are the steps in text classification?
+
+Text Classification Workflow
+Step 1: Gather Data.
+Step 2: Explore Your Data.
+Step 2.5: Choose a Model*
+Step 3: Prepare Your Data.
+Step 4: Build, Train, and Evaluate Your Model.
+Step 5: Tune Hyperparameters.
+Step 6: Deploy Your Model.
+
+What are the 9 text types?
+
+through, 9 key text types: recount, description, information report, narrative, procedure, exposition, explanation, discussion and response.
 
 KINDS OF TEXT
 
