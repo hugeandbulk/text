@@ -1,6 +1,12 @@
 
 https://courses.lumenlearning.com/waymaker-level1-english-gen/chapter/text-text-structures/#:~:text=A%20text%20structure%20is%20the,text%20into%20a%20coherent%20whole.
 
+What is text evidence?
+
+What is Textual Evidence? Textual evidence uses information from an originating source or other texts to support an argument. Think of textual evidence as the driving force behind debates. Debates take a position and then use facts as supporting evidence.
+
+
+
 EXPLAIN
 
 Types of TEXTS
